@@ -1,0 +1,74 @@
+Example 1
+public class Main{
+    public static void main(String args[]){
+        // Defining variables.
+        int x = 5, y = 10, z = 3;
+
+        // Calcuating result.
+        int ans = x + y * z / 10;
+
+        // Printing it.
+        System.out.println(ans); 
+    }
+}
+
+Example 2
+public class Main{
+    public static void main(String args[]){
+        // Defining variables.
+        int x = 10, y = 20, z = 5;
+
+        // Calculating result.
+        int ans = x + --y - ++z;
+
+        // Printing it.
+        System.out.println(ans); 
+    }
+}
+
+Example 3
+public class Main{
+    public static void main(String args[]){
+        // Defining variables.
+        int x = 2, y = 3, z = 4;
+
+        // Calculating result.
+        int ans = ++x + ++y + 5 << 1 | 2;
+
+        // Printing it.
+        System.out.println(ans); 
+    }
+}
+
+Practice Questions
+
+1. 20+12−15∗2/2/5
+2.10∣8+12−5∗4/10
+3.10+((15−20)∗(2/2))/5
+
+Question 4
+Predict the output of the following code
+
+public class Main{
+	public static void main(String args[]){
+		boolean x = false, y = true, z = false;
+
+		boolean  ans = x == y == z;
+
+		System.out.println(ans); 
+	}
+}
+
+Question 5
+
+Predict the output of the following code
+
+public class Main{
+	public static void main(String args[]){
+		int x = 5;
+
+		int ans = ++++x;
+
+		System.out.println(ans); 
+	}
+}
