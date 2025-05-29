@@ -13,3 +13,5 @@
 3) do-while loop-without checking condition run atleast one time.
 
 4) foreach loop
+
+# Alphabet pattern
