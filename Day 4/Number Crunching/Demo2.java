@@ -4,13 +4,16 @@ public class Demo2 {
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();
         int div=2;
+        int cnt=0;
         while(div<=n/2)
         {
             if(n%div==0)
             {
-                System.out.print(div+" ");
+                // System.out.print(div+" ");
+                cnt++;
             }
             div++;
         }
+        System.out.println(cnt);
     }
 }
