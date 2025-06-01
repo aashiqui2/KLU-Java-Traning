@@ -1,0 +1,64 @@
+In 1978 - C programming
+         By Dennis Ritchie
+
+Which  follows Procedural Language
+
+Drawbacks 
+1) not good handling memory
+2) No exception handling
+3) it doesn't follows OOPS paradigm.
+
+
+in 1979 -C++ 
+        by Bjarne stroustrip
+
+1) Pointers
+2) operator overloading using virtual function.
+3) no platform independent.
+
+In 1991 python
+
+1995 - jAVA programming
+     By james gosling
+
+Jva features
+1.simple
+2.Robust- Error Prone Code
+3. it is platform independent
+          jdk is platform independent
+          jvm as platform dependent
+4.It follows OOPS paradigm. 
+
+      4 PILLARS
+     1)Encapsulation
+      2) Polymorphism
+     3) inheritance
+     4) Abstarction 
+
+   100% oops is java?
+      no.4. 
+5. good in memory management
+      - garbage collector. 
+6. it is Multi threaded LANGUAGE.
+
+7.It Handles Exception Handling.
+
+8.Distributed Language 
+     for web applications
+     for embedded system
+      for TCP/IP Protocals
+
+9.It is portable.
+
+
+
+   J2SE- JAVA 2 STANDARD EDITION (CORE JAVA)
+   J2EE - JAVA 2 Enterprise EDITION
+   J2ME - JAVA 2 MICRO EDITION
+
+
+
+     JCSD-JAVA CERTIFIED SUN DEVELOPER
+     JCOD-JAVA CERTIFIED ORACLE DEVELOPER
+
+      GIT AND GITHUB
