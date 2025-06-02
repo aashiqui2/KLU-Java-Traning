@@ -7,7 +7,7 @@ public class ArrayDemo3 {
         int max=a.length>b.length?a.length:b.length;
         int c[]=new int[max];
         int min=a.length<b.length?a.length:b.length;
-        for(int i=0;i<min;i++){
+        for(int i=0;i<min;i++){ 
             c[i]=a[i]*b[i];
         }
         for(int i=min;i<max;i++ )
