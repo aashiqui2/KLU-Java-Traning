@@ -26,7 +26,7 @@ public class Demo {
         reverse(k, n-1, a);
         reverse(0, n-1, a);
     }
-
+ 
     public static void reverse(int start, int end, int a[]) {
         while(start<=end)
         {
