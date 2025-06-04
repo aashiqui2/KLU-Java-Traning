@@ -4,23 +4,24 @@ public class Demo2 {
                 { 4, 5, 6 },
                 { 7, 8, 9 }
         };
+        //! brute force approach
         int n = a.length;
-        // for (int i = 0; i < n; i++) {
-        // for (int j = 0; j < n; j++) {
-        // int temp=a[i][j];
-        // a[i][j]=a[i][n-j-1];
-        // a[n-j-1][i]=temp;
-        // }
-        // }
-        transpose(a);
-        reverse(a);
+        int rotate[][] = new int[3][3];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                rotate[i][j]=a[n-j-1][i];
+            }
+        }
+        // transpose(a);
+        // reverse(a);
         printArray(a);
+        printArray(rotate);
     }
 
     public static void transpose(int a[][]) {
         int n = a.length;
-        for (int i = 0; i < n-1; i++) {
-            for (int j = 1; j < n ; j++) {
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 1; j < n; j++) {
                 int temp = a[j][i];
                 a[j][i] = a[i][j];
                 a[i][j] = temp;
