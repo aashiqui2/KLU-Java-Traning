@@ -14,10 +14,10 @@ public class Practice2 {
         int j = s.length() - 1;
         while (i <= j) {
 
-            while (!Character.isLetterOrDigit(s.charAt(i))) {
+            while (!Character.isLetterOrDigit(s.charAt(i))&&i<j) {
                 i++;
             }
-            while (!Character.isLetterOrDigit(s.charAt(j))) {
+            while (!Character.isLetterOrDigit(s.charAt(j))&&i<j) {
                 j--;
             }
             if (s.charAt(i) !=s.charAt(j)) {
