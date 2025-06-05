@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo",
+            "request": "launch",
+            "mainClass": "ArrayDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo1",
+            "request": "launch",
+            "mainClass": "ArrayDemo1",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo2",
+            "request": "launch",
+            "mainClass": "ArrayDemo2",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo3",
+            "request": "launch",
+            "mainClass": "ArrayDemo3",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo4",
+            "request": "launch",
+            "mainClass": "ArrayDemo4",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo5",
+            "request": "launch",
+            "mainClass": "ArrayDemo5",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo6",
+            "request": "launch",
+            "mainClass": "ArrayDemo6",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDemo7",
+            "request": "launch",
+            "mainClass": "ArrayDemo7",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Comment",
+            "request": "launch",
+            "mainClass": "Comment",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "Demo1",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo10",
+            "request": "launch",
+            "mainClass": "Demo10",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo11",
+            "request": "launch",
+            "mainClass": "Demo11",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo12",
+            "request": "launch",
+            "mainClass": "Demo12",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo13",
+            "request": "launch",
+            "mainClass": "Demo13",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo2",
+            "request": "launch",
+            "mainClass": "Demo2",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo3",
+            "request": "launch",
+            "mainClass": "Demo3",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo4",
+            "request": "launch",
+            "mainClass": "Demo4",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo5",
+            "request": "launch",
+            "mainClass": "Demo5",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo6",
+            "request": "launch",
+            "mainClass": "Demo6",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo7",
+            "request": "launch",
+            "mainClass": "Demo7",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo8",
+            "request": "launch",
+            "mainClass": "Demo8",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Demo9",
+            "request": "launch",
+            "mainClass": "Demo9",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "DowhileDemo",
+            "request": "launch",
+            "mainClass": "DowhileDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopDemo",
+            "request": "launch",
+            "mainClass": "ForLoopDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "IfDemo",
+            "request": "launch",
+            "mainClass": "IfDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "IfelseDemo",
+            "request": "launch",
+            "mainClass": "IfelseDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "IfelseIfDemo",
+            "request": "launch",
+            "mainClass": "IfelseIfDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "IssueInput",
+            "request": "launch",
+            "mainClass": "IssueInput",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "JumpStatement",
+            "request": "launch",
+            "mainClass": "JumpStatement",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfDemo",
+            "request": "launch",
+            "mainClass": "NestedIfDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "OperatorPrecedence",
+            "request": "launch",
+            "mainClass": "OperatorPrecedence",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo",
+            "request": "launch",
+            "mainClass": "StringDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo1",
+            "request": "launch",
+            "mainClass": "StringDemo1",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo2",
+            "request": "launch",
+            "mainClass": "StringDemo2",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo3",
+            "request": "launch",
+            "mainClass": "StringDemo3",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo4",
+            "request": "launch",
+            "mainClass": "StringDemo4",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "StringDemo5",
+            "request": "launch",
+            "mainClass": "StringDemo5",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "SwapDemo",
+            "request": "launch",
+            "mainClass": "SwapDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDemo",
+            "request": "launch",
+            "mainClass": "SwitchDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDemo1",
+            "request": "launch",
+            "mainClass": "SwitchDemo1",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Tables",
+            "request": "launch",
+            "mainClass": "Tables",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "TernaryDemo",
+            "request": "launch",
+            "mainClass": "TernaryDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "TypesOfVariables",
+            "request": "launch",
+            "mainClass": "TypesOfVariables",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "UserInputDemo",
+            "request": "launch",
+            "mainClass": "UserInputDemo",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Java Training_647d2c0e"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo",
+            "request": "launch",
+            "mainClass": "WhileDemo",
+            "projectName": "Java Training_647d2c0e"
+        }
+    ]
+}
