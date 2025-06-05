@@ -1,8 +1,6 @@
 public class Practice2 {
     public static void main(String[] args) {
         String s = "A man, a plan, a canal: Panama";
-        // String s="race a car";
-
         // amanaplanacanalpanama
         System.out.println(isPalindrome(s));
     }
@@ -15,16 +13,14 @@ public class Practice2 {
         int i = 0;
         int j = s.length() - 1;
         while (i <= j) {
-            char start=s.charAt(i);
-            char end=s.charAt(j);
 
-            while (!Character.isLetterOrDigit(start)) {
+            while (!Character.isLetterOrDigit(s.charAt(i))) {
                 i++;
             }
-            while (!Character.isLetterOrDigit(end)) {
+            while (!Character.isLetterOrDigit(s.charAt(j))) {
                 j--;
             }
-            if (start !=end) {
+            if (s.charAt(i) !=s.charAt(j)) {
                 return false;
             }
             i++;
