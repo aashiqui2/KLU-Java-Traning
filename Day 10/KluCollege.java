@@ -6,6 +6,10 @@ public class KluCollege {
         Principal.Canteen();
         Principal.swimmingpool();
     }
+    protected void Lab()
+    {
+        System.out.println("Laboratory");
+    }
     public void Canteen() {
         System.out.println("food is good");
     }
