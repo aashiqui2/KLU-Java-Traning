@@ -11,7 +11,7 @@ public class Practice5 {
         int hash[] = new int[26];
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) != ' ') {
-                hash[s.charAt(i) - 'a']++;
+               hash[s.charAt(i) - 'a']++;5
             }
 
         }
