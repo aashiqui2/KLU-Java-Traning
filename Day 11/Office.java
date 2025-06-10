@@ -1,5 +1,9 @@
 package tamilnadu.chennai;
 public class Office {
+    Office()
+    {
+        System.out.println("i am from office class");
+    }
     public static void main(String[] args) {
         Office office=new Office();
         office.work();
