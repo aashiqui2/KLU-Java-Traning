@@ -1,3 +1,4 @@
+
 public class LinkedListDemo {
 	class Node {
 		int data;
@@ -109,6 +110,46 @@ public class LinkedListDemo {
 			prev.next=temp.next;
 		}
 	}
+	void sumNode()
+	{
+		int sum=0;
+		Node temp=head;
+		while(temp!=null)
+		{
+			sum+=temp.data;
+			temp=temp.next;
+		}
+		System.out.println(sum);
+	}
+	
+	void CountNodes()
+	{
+       //	do it yourself	
+	}
+	
+	void update(int data,int k)
+	{
+		if(head==null)
+		{
+			System.out.println("list is empty");
+		}
+		else {
+			Node temp=head;
+			while(temp!=null)
+			{
+				if(temp.data==data)
+				{
+					temp.data=k;
+					return;
+				}
+				temp=temp.next;
+			}
+			if(temp==null)
+			{
+				System.out.println("non data found");
+			}
+		}
+	}
 
 	void display() {
 		if(head==null)
@@ -131,9 +172,12 @@ public class LinkedListDemo {
 		l.insertAtEnd(5);
 //		l.deleteAtBegin();
 //		l.deleteAtEnd();
+//		l.display();
+//		System.out.println();
+//		l.deleteAtPos(4);
 		l.display();
-		System.out.println();
-		l.deleteAtPos(4);
+		l.sumNode();
+		l.update(80, 20);
 		l.display();
 
 	}
